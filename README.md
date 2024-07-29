@@ -1,7 +1,7 @@
 ![I'm Full-stack web developer](https://mir-s3-cdn-cf.behance.net/6607b4b36d01123065243a9b8021e1b9/c6429c7a-0dd0-4334-b27a-7b6ce35b346e_rwc_0x42x1584x312x1584.jpg?h=ab0f0d4682150ed5e3f213ca6d52e264)
 
 # Hi there 👋, I'm Mehedi Hasan
-#### I'm Full-stack web developer
+#### I'm Front-end focus full-stack web developer
 
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 50s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, NextJS, ExpressJs, Mongodb, JavaScript.
 
